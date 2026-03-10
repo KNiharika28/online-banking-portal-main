@@ -284,5 +284,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 <div align="center">
   <p>⭐ If you found this project helpful, please give it a star!</p>
-  <p>Made with ❤️ by Krishna Saxena and team</p>
+  <p>Made with ❤️ by Niharika Reddy and team</p>
 </div>
